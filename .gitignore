@@ -1,0 +1,13 @@
+# .gitignore file for the project
+
+# Ignore data files, documentation, and virtual environment
+/docs/
+/venv/
+
+# Ignore db files and logs
+*.db
+/mlruns/
+
+# Ignore Python bytecode files and cache
+__pycache__/
+.pytest_cache/

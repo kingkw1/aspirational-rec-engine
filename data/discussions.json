@@ -1,0 +1,3544 @@
+[
+  {
+    "post_id": 2,
+    "messages_list": [
+      {
+        "post_id": 2,
+        "comment_id": null,
+        "text": "What morning routines help you start the day with more energy? I started journaling first thing in the morning. Just five minutes of writing down three things I'm grateful for. It shifts my whole mindset for the day.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 1,
+        "text": "Has anyone tried meditation apps for morning practice? I'm looking for one that's good for beginners who can't sit still very long.",
+        "author_ref_user_id": 180,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 2,
+        "comment_id": 2,
+        "text": "Cold showers changed everything for me! I know it sounds awful, but even 30 seconds of cold water at the end of my shower wakes me up better than coffee.",
+        "author_ref_user_id": 146,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 3,
+        "text": "My morning playlist makes all the difference. Upbeat music while I get ready sets a positive tone. Anyone have favorite morning songs?",
+        "author_ref_user_id": 126,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 4,
+        "text": "I've been waking up 30 minutes earlier to do some light stretching and it's made a huge difference. My joints feel less stiff and I have more energy by mid-morning.",
+        "author_ref_user_id": 206,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 5,
+        "text": "I try not to check my phone for the first hour after waking. It's hard, but my anxiety levels are so much lower on days I manage it.",
+        "author_ref_user_id": 163,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 6,
+        "text": "Honestly, just making my bed every morning has been unexpectedly helpful. It gives me a small sense of accomplishment right away.",
+        "author_ref_user_id": 243,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 7,
+        "text": "I do a 7-minute workout from an app. It's short enough that I can't talk myself out of it, but intense enough to get my blood flowing.",
+        "author_ref_user_id": 186,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 2,
+        "comment_id": 8,
+        "text": "I've been making smoothies with spinach, banana, and protein powder. Quick, nutritious, and I don't have to think about it while I'm still half asleep.",
+        "author_ref_user_id": 237,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 9,
+    "messages_list": [
+      {
+        "post_id": 9,
+        "comment_id": null,
+        "text": "Tips for managing stress during busy work periods? Deep breathing exercises between meetings help me reset. Just three slow breaths can bring my heart rate down noticeably.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 9,
+        "comment_id": 1,
+        "text": "I've been using the Pomodoro technique — 25 minutes of focused work, then a 5-minute break. It prevents me from burning out by midday.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 9,
+        "comment_id": 2,
+        "text": "I prioritize my task list the night before so I know exactly what needs attention first thing. Reduces that morning panic feeling.",
+        "author_ref_user_id": 178,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 9,
+        "comment_id": 3,
+        "text": "Setting clear boundaries between work and personal time has been essential. I close my laptop at 6pm no matter what's left on my to-do list.",
+        "author_ref_user_id": 220,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 9,
+        "comment_id": 4,
+        "text": "Talking to a coworker about shared challenges helps normalize the stress. Knowing you're not alone makes it more bearable.",
+        "author_ref_user_id": 186,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 45,
+    "messages_list": [
+      {
+        "post_id": 45,
+        "comment_id": null,
+        "text": "How do you stay motivated to exercise when the weather is bad? I set up a small home gym in my garage. Even just a bench and some free weights gives me options on bad weather days.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 1,
+        "text": "I remind myself that I've never regretted a workout, only the ones I skip. That mental reframe usually gets me off the couch.",
+        "author_ref_user_id": 169,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 45,
+        "comment_id": 2,
+        "text": "Online workout videos are my savior during winter. There are free ones for every fitness level and they keep me moving without leaving the house.",
+        "author_ref_user_id": 195,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 3,
+        "text": "I joined an indoor climbing gym. It's fun enough that I actually look forward to going, rain or shine.",
+        "author_ref_user_id": 245,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 4,
+        "text": "I invested in a yoga mat and some resistance bands. Having equipment at home removes the excuse of not wanting to go out in the rain.",
+        "author_ref_user_id": 259,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 5,
+        "text": "Walking in the mall counts! It's climate-controlled, flat, and you can window shop while getting your steps in.",
+        "author_ref_user_id": 226,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 6,
+        "text": "Indoor swimming at the community pool has been great. The warm water is actually extra appealing when it's cold outside.",
+        "author_ref_user_id": 263,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 7,
+        "text": "I dance around my living room! Put on some music and just move. It doesn't have to be structured to count as exercise.",
+        "author_ref_user_id": 271,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 8,
+        "text": "I set up a small home gym in my garage. Even just a bench and some free weights gives me options on bad weather days.",
+        "author_ref_user_id": 172,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 9,
+        "text": "I remind myself that I've never regretted a workout, only the ones I skip. That mental reframe usually gets me off the couch.",
+        "author_ref_user_id": 238,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 45,
+        "comment_id": 10,
+        "text": "Online workout videos are my savior during winter. There are free ones for every fitness level and they keep me moving without leaving the house.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 30,
+    "messages_list": [
+      {
+        "post_id": 30,
+        "comment_id": null,
+        "text": "What healthy meals do you actually enjoy cooking? I make a big pot of vegetable soup on Sundays that lasts me several days. It's cheap, nutritious, and impossibly easy.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 1,
+        "text": "My crock pot is my best friend. I throw in ingredients in the morning and come home to a house that smells incredible.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 2,
+        "text": "Salmon with roasted asparagus is my favorite special dinner. The omega-3s are great for brain health and it feels fancy without being complicated.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 3,
+        "text": "Overnight oats have revolutionized my mornings. I prep five jars on Sunday and grab one each day. So many flavor combinations possible.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 4,
+        "text": "Sheet pan dinners are my go-to. Throw some chicken, sweet potatoes, and broccoli on a pan, season everything, and bake for 25 minutes. Minimal cleanup too!",
+        "author_ref_user_id": 159,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 5,
+        "text": "Greek yogurt bowls with fruit, granola, and a drizzle of honey. Simple, satisfying, and loaded with protein.",
+        "author_ref_user_id": 190,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 6,
+        "text": "I've gotten really into Buddha bowls — rice, roasted veggies, chickpeas, and a tahini dressing. Looks beautiful and tastes amazing.",
+        "author_ref_user_id": 215,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 30,
+        "comment_id": 7,
+        "text": "Has anyone tried cauliflower rice? I was skeptical but it's actually really good in fried rice dishes. Way fewer carbs.",
+        "author_ref_user_id": 285,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 41,
+    "messages_list": [
+      {
+        "post_id": 41,
+        "comment_id": null,
+        "text": "Strategies for improving sleep quality I started a bedtime stretching routine of about 10 minutes of gentle yoga poses. My body feels so much more relaxed when I get into bed.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 1,
+        "text": "I use a white noise machine and it blocks out all the random sounds that used to wake me up at night.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 2,
+        "text": "A consistent bedtime, even on weekends, has been game-changing. My body naturally gets sleepy at the right time now.",
+        "author_ref_user_id": 167,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 3,
+        "text": "Keeping my bedroom cool — around 65 degrees — has made the biggest difference. I used to keep it too warm and wondered why I tossed and turned.",
+        "author_ref_user_id": 198,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 4,
+        "text": "Weighted blankets are amazing. Mine feels like a hug and I fall asleep so much faster. Highly recommend trying one.",
+        "author_ref_user_id": 225,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 5,
+        "text": "Magnesium supplements before bed have helped me fall asleep faster. Obviously check with your doctor first, but it worked for me.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 6,
+        "text": "I write down my worries in a notebook before bed — almost like giving them to the paper so my brain can let go.",
+        "author_ref_user_id": 273,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 7,
+        "text": "Cutting caffeine after noon was hard but worth it. I didn't realize how much my afternoon coffee was affecting my sleep hours later.",
+        "author_ref_user_id": 208,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 8,
+        "text": "No screens after 9pm is my rule. I switch to a paperback book and it helps my brain wind down naturally.",
+        "author_ref_user_id": 252,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 9,
+        "text": "I started a bedtime stretching routine of about 10 minutes of gentle yoga poses. My body feels so much more relaxed when I get into bed.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 41,
+        "comment_id": 10,
+        "text": "I use a white noise machine and it blocks out all the random sounds that used to wake me up at night.",
+        "author_ref_user_id": 167,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 46,
+    "messages_list": [
+      {
+        "post_id": 46,
+        "comment_id": null,
+        "text": "Finding balance between caring for aging parents and maintaining your own health I learned the hard way that you can't pour from an empty cup. Scheduling my own doctor appointments and therapy sessions is non-negotiable now.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 46,
+        "comment_id": 1,
+        "text": "Meal delivery services for my parents removed one huge stressor from my plate. The meals are nutritious and they enjoy the variety.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 46,
+        "comment_id": 2,
+        "text": "Setting up a care rotation with my siblings was essential. No single person should carry the entire burden alone.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 46,
+        "comment_id": 3,
+        "text": "Setting boundaries around phone calls helped. My dad would call ten times a day for minor things. We established set check-in times.",
+        "author_ref_user_id": 188,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 46,
+        "comment_id": 4,
+        "text": "Regular respite care weekends have saved my mental health. Having two full days to rest and do things I enjoy keeps me going.",
+        "author_ref_user_id": 222,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 4,
+    "messages_list": [
+      {
+        "post_id": 4,
+        "comment_id": null,
+        "text": "Best apps and tools for tracking health and wellness goals My fitness watch has been great for accountability. Seeing how many steps I've taken and my heart rate trends helps me adjust my activity level.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 4,
+        "comment_id": 1,
+        "text": "I use a water reminder app that buzzes every hour. Simple but it doubled my daily water intake. Turns out I was chronically dehydrated.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 4,
+        "comment_id": 2,
+        "text": "Meal tracking apps helped me realize how much hidden sugar was in my diet. Really eye-opening when you start logging everything.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 4,
+        "comment_id": 3,
+        "text": "I tried a mood tracking journal app where I rate my mood three times a day. After a month, the patterns were really interesting and helpful.",
+        "author_ref_user_id": 120,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 4,
+        "comment_id": 4,
+        "text": "I keep a simple spreadsheet for my health goals. Nothing fancy, just a weekly check-in with myself on sleep, exercise, mood, and nutrition.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 4,
+        "comment_id": 5,
+        "text": "I use a habit tracking app where I check off daily tasks — water intake, stretching, meditation. Something about those little checkmarks keeps me motivated.",
+        "author_ref_user_id": 156,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 4,
+        "comment_id": 6,
+        "text": "My blood pressure monitoring app syncs with a wireless cuff and tracks trends over time. Made it so much easier to share data with my doctor.",
+        "author_ref_user_id": 140,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 26,
+    "messages_list": [
+      {
+        "post_id": 26,
+        "comment_id": null,
+        "text": "How to make friends as an adult — it's harder than it seems! Volunteering has been the best way for me to meet like-minded people. We bond over shared values and the work gives us something to talk about.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 1,
+        "text": "I joined a beginner's hiking group through an app. The shared physical activity makes conversation flow naturally without any awkwardness.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 2,
+        "text": "I was honest with a coworker about wanting more social connections outside of work. Turns out she felt the same way. Now we do things together regularly.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 3,
+        "text": "Taking a cooking class introduced me to a whole group of food enthusiasts. We still get together monthly to try new recipes.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 4,
+        "text": "Dog parks are secretly amazing for making friends. The dogs break the ice and suddenly you're chatting with people every morning.",
+        "author_ref_user_id": 159,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 5,
+        "text": "I started attending a weekly trivia night at a local pub. At first I went alone, but now I have a regular team of four people I consider real friends.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 6,
+        "text": "Online communities around specific interests led to real-life friendships for me. Started with a photography forum, now we do photo walks together.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 26,
+        "comment_id": 7,
+        "text": "Being the one to initiate plans was key for me. I had to get over the fear of rejection and just start inviting people to coffee.",
+        "author_ref_user_id": 143,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 51,
+    "messages_list": [
+      {
+        "post_id": 51,
+        "comment_id": null,
+        "text": "Dealing with chronic pain — what helps you cope? I keep a pain diary that tracks my levels, activities, food, and weather. Spotting patterns has helped me avoid my worst triggers.",
+        "author_ref_user_id": 118,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 1,
+        "text": "Accepting that some days will be worse than others, and planning accordingly, has reduced my frustration immeasurably.",
+        "author_ref_user_id": 146,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 2,
+        "text": "Acupuncture has been surprisingly helpful. I was skeptical at first, but after six sessions my shoulder mobility improved significantly.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 3,
+        "text": "Finding a physical therapist who actually listens to me was crucial. Not all pain management approaches work for everyone.",
+        "author_ref_user_id": 139,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 4,
+        "text": "An ergonomic workstation evaluation changed my daily pain levels dramatically. My desk and chair were causing half my problems.",
+        "author_ref_user_id": 160,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 5,
+        "text": "I use a TENS unit for my knee pain and it provides real relief. Portable enough that I can use it while watching television in the evening.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 6,
+        "text": "Cognitive behavioral therapy for pain helped me reframe my relationship with it. The pain hasn't gone away, but my response to it has completely changed.",
+        "author_ref_user_id": 118,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 7,
+        "text": "Gentle tai chi in the park every morning. The slow, deliberate movements strengthen my body without the impact that makes pain worse.",
+        "author_ref_user_id": 153,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 51,
+        "comment_id": 8,
+        "text": "Heat therapy before bed and ice therapy after activity. Learning when to use which one was a game changer for my arthritis management.",
+        "author_ref_user_id": 129,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 53,
+    "messages_list": [
+      {
+        "post_id": 53,
+        "comment_id": null,
+        "text": "Mindfulness and meditation for beginners — where do I start? I've been meditating for three months now and the biggest change is how I react to stressful situations. I pause before responding instead of reacting.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 1,
+        "text": "I tried guided meditations through an app and the narrator's voice made all the difference. Some voices just feel more calming than others.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 2,
+        "text": "Don't judge yourself for having a busy mind. That's literally what minds do. The practice is in gently bringing your attention back.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 3,
+        "text": "Start with just two minutes. Seriously. I tried jumping straight to 20-minute sessions and kept failing. Two minutes built the habit.",
+        "author_ref_user_id": 151,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 4,
+        "text": "A meditation group at my local library meets Saturday mornings. Having others around made it feel less weird when I was starting out.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 5,
+        "text": "Breathing exercises are the simplest entry point. Four counts in, hold for four, out for six. Do it anywhere, anytime.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 6,
+        "text": "I tie my meditation to an existing habit — right after I brew my morning coffee. The anchor makes it automatic.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 7,
+        "text": "Body scan meditations are great for beginners because they give your mind something specific to focus on instead of 'think about nothing.'",
+        "author_ref_user_id": 113,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 8,
+        "text": "Walking meditation was my gateway in. I couldn't sit still, but paying close attention to each step while walking worked for me.",
+        "author_ref_user_id": 130,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 53,
+        "comment_id": 9,
+        "text": "Mindful eating was my first mindfulness practice. Taking time to actually taste and appreciate food slowed everything down.",
+        "author_ref_user_id": 163,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 43,
+    "messages_list": [
+      {
+        "post_id": 43,
+        "comment_id": null,
+        "text": "What hobbies have you picked up that improved your overall wellbeing? Bird watching transformed my daily walks from boring exercise into exciting treasure hunts. I've logged over 60 species this year alone!",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 43,
+        "comment_id": 1,
+        "text": "Baking bread has become a weekly ritual. The process is meditative and sharing fresh loaves with neighbors has strengthened our community.",
+        "author_ref_user_id": 196,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 43,
+        "comment_id": 2,
+        "text": "Puzzle assembling has been my evening wind-down activity. It's quiet, meditative, and gives me a satisfying sense of completion.",
+        "author_ref_user_id": 223,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 43,
+        "comment_id": 3,
+        "text": "I started a blog about my health journey. Writing helps me process my experiences and knowing others read it keeps me accountable.",
+        "author_ref_user_id": 241,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 43,
+        "comment_id": 4,
+        "text": "Gardening has been incredible for my mental health. Getting my hands in soil, watching things grow, being outside in the sun. It checks every box.",
+        "author_ref_user_id": 255,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 27,
+    "messages_list": [
+      {
+        "post_id": 27,
+        "comment_id": null,
+        "text": "Navigating the healthcare system — tips for being your own advocate I learned to ask 'What would you recommend for your own family member in this situation?' It changes the quality of advice I receive.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 1,
+        "text": "Researching my condition before appointments means I can have informed conversations with my care team. Knowledge is power.",
+        "author_ref_user_id": 183,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 2,
+        "text": "Don't minimize your symptoms. I spent years saying 'it's probably nothing' when my body was telling me something was wrong.",
+        "author_ref_user_id": 205,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 3,
+        "text": "Patient portals are underused. I review all my lab results online and send questions to my doctor through the messaging system between visits.",
+        "author_ref_user_id": 229,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 4,
+        "text": "Ask your doctor to explain things in plain language. You have every right to understand your own health situation completely.",
+        "author_ref_user_id": 244,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 5,
+        "text": "Bringing a trusted person to appointments helps. They can take notes and remember things you might miss in the moment.",
+        "author_ref_user_id": 254,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 6,
+        "text": "I keep a binder with all my medical records, test results, and medication lists. When I see a new specialist, I hand them a copy. It saves so much time.",
+        "author_ref_user_id": 261,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 27,
+        "comment_id": 7,
+        "text": "Always bring a written list of questions to appointments. I used to forget everything the moment the doctor walked in.",
+        "author_ref_user_id": 269,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 14,
+    "messages_list": [
+      {
+        "post_id": 14,
+        "comment_id": null,
+        "text": "Setting realistic wellness goals that actually stick The two-minute rule changed everything: if a new habit takes less than two minutes, do it. That's how I started flossing every night.",
+        "author_ref_user_id": 110,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 14,
+        "comment_id": 1,
+        "text": "Celebrating small wins has been crucial. Each healthy meal, each workout, each good night's sleep deserves acknowledgment.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 14,
+        "comment_id": 2,
+        "text": "I plan for failure. Seriously. Knowing I'll miss some days and having a plan for getting back on track prevents me from giving up entirely.",
+        "author_ref_user_id": 160,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 14,
+        "comment_id": 3,
+        "text": "Pairing a habit I want with one I already enjoy works great. I listen to podcasts I love, but only while exercising.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 14,
+        "comment_id": 4,
+        "text": "I only change one habit at a time. Trying to overhaul my entire lifestyle in January led to total failure. Sequential changes actually stuck.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 14,
+        "comment_id": 5,
+        "text": "Tracking my progress visually with a calendar on my fridge wall — crossing off days — gives me a tangible sense of accomplishment.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 14,
+        "comment_id": 6,
+        "text": "I give myself permission to do less on hard days instead of skipping entirely. A 10-minute walk is better than no walk at all.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 48,
+    "messages_list": [
+      {
+        "post_id": 48,
+        "comment_id": null,
+        "text": "How grief changes your perspective on living well Losing my mother made me finally take my health seriously. She always wanted me to, and now I feel like I'm honoring her by doing it.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 1,
+        "text": "Writing letters to my late husband helps me process. I tell him about my day, my goals, my fears. It keeps our connection alive while helping me move forward.",
+        "author_ref_user_id": 147,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 48,
+        "comment_id": 2,
+        "text": "My father's health battle showed me the importance of preventive care. Regular checkups feel like a gift now, not a chore.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 3,
+        "text": "I find myself more empathetic since experiencing loss. I listen differently when people share their struggles. Pain teaches compassion.",
+        "author_ref_user_id": 147,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 4,
+        "text": "I used to take mornings for granted. Now I appreciate every single one. A cup of coffee in the garden feels like a miracle some days.",
+        "author_ref_user_id": 196,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 5,
+        "text": "The grief support group introduced me to people who became genuine friends. Shared vulnerability creates incredibly strong bonds.",
+        "author_ref_user_id": 214,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 6,
+        "text": "Grief taught me that time is truly limited. I stopped postponing things I cared about — the trip, the art class, the difficult conversation.",
+        "author_ref_user_id": 196,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 7,
+        "text": "I started volunteering at a hospice. It sounds heavy, but being present for people in their final chapter has deepened my appreciation for life.",
+        "author_ref_user_id": 239,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 48,
+        "comment_id": 8,
+        "text": "Losing my mother made me finally take my health seriously. She always wanted me to, and now I feel like I'm honoring her by doing it.",
+        "author_ref_user_id": 259,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 7,
+    "messages_list": [
+      {
+        "post_id": 7,
+        "comment_id": null,
+        "text": "Building confidence to try new things after 50 Imposter syndrome doesn't disappear with age, but I've learned that feeling uncomfortable just means I'm growing. That reframe changes everything.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 1,
+        "text": "I signed up for a dance class at 55 and I was terrified. Turns out the class was full of people my age, all equally nervous. We laugh together every week.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 2,
+        "text": "My advice: start before you feel ready. If I waited until I felt confident enough to try surfing at 58, I'd still be waiting. Just go.",
+        "author_ref_user_id": 150,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 3,
+        "text": "I started a YouTube channel about my garden. I was sure nobody would watch. Three hundred subscribers later, I'm connecting with plant lovers worldwide.",
+        "author_ref_user_id": 158,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 4,
+        "text": "I went back to community college to study art history. Being the oldest student was intimidating for about a week. Now my classmates ask me for life advice.",
+        "author_ref_user_id": 170,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 5,
+        "text": "Learning a new language at 62 is humbling. I sound like a toddler in Italian. But my last trip to Rome was so much richer because I could have basic conversations.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 6,
+        "text": "My grandkids think it's the coolest thing that their grandmother is learning to skateboard. Their enthusiasm is better than any confidence boost.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 7,
+        "comment_id": 7,
+        "text": "I auditioned for a community theater production and got a small part. The standing ovation at closing night was worth every nervous rehearsal.",
+        "author_ref_user_id": 143,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 37,
+    "messages_list": [
+      {
+        "post_id": 37,
+        "comment_id": null,
+        "text": "Dealing with seasonal changes and their effect on mood and energy Winter is brutal for my mood. I invested in a light therapy lamp and use it for 30 minutes every morning. It genuinely helps take the edge off.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 37,
+        "comment_id": 1,
+        "text": "Hot soups and stews in winter aren't just comfort food — they're packed with vegetables and keep me nourished when I'm tempted to eat poorly.",
+        "author_ref_user_id": 154,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 37,
+        "comment_id": 2,
+        "text": "Spring cleaning isn't just for houses. I use the season change to refresh my goals, reorganize my space, and reset my routines.",
+        "author_ref_user_id": 160,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 37,
+        "comment_id": 3,
+        "text": "I noticed my vitamin D levels drop every winter. Supplementing under my doctor's guidance has been really helpful.",
+        "author_ref_user_id": 112,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 37,
+        "comment_id": 4,
+        "text": "Having indoor hobbies for bad weather and outdoor ones for nice weather means I always have something engaging to do regardless of the forecast.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 11,
+    "messages_list": [
+      {
+        "post_id": 11,
+        "comment_id": null,
+        "text": "How do you handle setbacks in your health journey? Every expert was once a beginner who had setbacks. That thought keeps me going when I feel like I'm failing at my health goals.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 1,
+        "text": "I document both my setbacks and my comebacks. Looking back at how I've bounced back before gives me confidence that I can do it again.",
+        "author_ref_user_id": 184,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 2,
+        "text": "Self-compassion practice has been the most important skill. I literally talk to myself the way I'd talk to a friend going through the same thing.",
+        "author_ref_user_id": 206,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 3,
+        "text": "I scheduled a 'reset day' once a month where I reassess my goals and adjust if needed. It prevents small setbacks from becoming permanent detours.",
+        "author_ref_user_id": 230,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 4,
+        "text": "My physical therapist told me 'two steps forward, one step back is still one step forward.' I think about that a lot.",
+        "author_ref_user_id": 244,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 5,
+        "text": "I try to be curious instead of critical when things go sideways. What went wrong? What can I learn? Instead of beating myself up.",
+        "author_ref_user_id": 254,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 6,
+        "text": "Having a support network makes setbacks survivable. My walking group sent encouraging messages when I had to take a break after surgery.",
+        "author_ref_user_id": 261,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 7,
+        "text": "I remind myself that a setback isn't a starting over. If I read 200 pages of a book and put it down for a week, I don't go back to page one.",
+        "author_ref_user_id": 269,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 8,
+        "text": "Adjusting my expectations without abandoning them entirely has been key. Injury means I modify my exercise, not stop entirely.",
+        "author_ref_user_id": 279,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 11,
+        "comment_id": 9,
+        "text": "Every expert was once a beginner who had setbacks. That thought keeps me going when I feel like I'm failing at my health goals.",
+        "author_ref_user_id": 202,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 56,
+    "messages_list": [
+      {
+        "post_id": 56,
+        "comment_id": null,
+        "text": "Benefits of spending time in nature for mental health I started a garden plot at the community garden. The combination of physical work, sunshine, and growing food has been incredible for my mood.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 1,
+        "text": "I take my phone calls while walking in the park now instead of pacing my apartment. Same conversation, completely different stress response.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 2,
+        "text": "Even just sitting on my patio with morning coffee and listening to the birds makes my day start better than checking news on my phone.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 3,
+        "text": "Forest bathing changed my life. Just walking slowly through the woods, paying attention to sounds and smells. My anxiety drops within minutes.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 4,
+        "text": "Swimming in a lake versus a pool hits different. Something about the open air and natural water just feels more restorative.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 5,
+        "text": "Teaching my kids to identify trees and wildflowers has reconnected me with the natural world in a way I hadn't experienced since childhood.",
+        "author_ref_user_id": 245,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 6,
+        "text": "I got into landscape photography specifically to give myself a reason to seek out beautiful natural places. The hobby serves double duty.",
+        "author_ref_user_id": 193,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 7,
+        "text": "When I feel overwhelmed at work, I step outside and put my bare feet in the grass for five minutes. Sounds new age but it genuinely works.",
+        "author_ref_user_id": 233,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 8,
+        "text": "Camping once a month has become my mental health reset button. Something about sleeping outside recalibrates my nervous system.",
+        "author_ref_user_id": 268,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 9,
+        "text": "Bird song is basically free therapy. Studies show even recordings of nature sounds lower cortisol levels.",
+        "author_ref_user_id": 276,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 56,
+        "comment_id": 10,
+        "text": "I started a garden plot at the community garden. The combination of physical work, sunshine, and growing food has been incredible for my mood.",
+        "author_ref_user_id": 285,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 55,
+    "messages_list": [
+      {
+        "post_id": 55,
+        "comment_id": null,
+        "text": "Managing anxiety without medication — what works for you? Regular exercise is my primary anxiety management tool. Something about the physical exertion burns off the nervous energy.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 1,
+        "text": "Therapy — specifically CBT — taught me to identify and challenge catastrophic thinking patterns. That skill changed everything.",
+        "author_ref_user_id": 168,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 2,
+        "text": "Limiting caffeine was huge for me. I switched to half-caff and then decaf, and my baseline anxiety dropped noticeably.",
+        "author_ref_user_id": 183,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 3,
+        "text": "Magnesium glycinate before bed and L-theanine in the morning. Both were recommended by my naturopath and the difference is subtle but real.",
+        "author_ref_user_id": 232,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 4,
+        "text": "Connection with other humans. When I isolate, my anxiety spirals. Even just texting a friend helps break the cycle.",
+        "author_ref_user_id": 118,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 5,
+        "text": "Reducing social media consumption cut my anxiety in half. I wasn't even aware of how much scrolling was feeding my worry loops.",
+        "author_ref_user_id": 232,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 6,
+        "text": "Having a gratitude practice sounds cheesy but breaking the anxiety cycle with three grateful thoughts genuinely shifts my brain chemistry.",
+        "author_ref_user_id": 247,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 7,
+        "text": "I keep a 'worry window' — a scheduled 15-minute block where I'm allowed to worry. Outside that time, I redirect my thoughts. Sounds strange but it works.",
+        "author_ref_user_id": 168,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 8,
+        "text": "Cold water exposure. A cold shower or even splashing cold water on my face during a panic moment brings me back to my body immediately.",
+        "author_ref_user_id": 260,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 55,
+        "comment_id": 9,
+        "text": "I practice box breathing — four counts in, four hold, four out, four hold. It activates the parasympathetic nervous system almost immediately.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 49,
+    "messages_list": [
+      {
+        "post_id": 49,
+        "comment_id": null,
+        "text": "Simple ways to add more movement to a sedentary lifestyle I do bodyweight exercises during TV commercial breaks. By the end of an evening show, I've done 50 squats without even trying.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 1,
+        "text": "I got a pedal exerciser that fits under my desk. I can cycle while answering emails. Nobody on video calls even notices.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 2,
+        "text": "Walking to pick up lunch instead of ordering delivery gets me 20 minutes of movement and fresh air in the middle of the day.",
+        "author_ref_user_id": 145,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 3,
+        "text": "A standing desk was a great investment. I alternate between sitting and standing every hour.",
+        "author_ref_user_id": 156,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 4,
+        "text": "Walking meetings! I convinced my team to do phone calls while walking. We cover the same material but feel so much better afterward.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 5,
+        "text": "I park at the far end of every parking lot and take stairs instead of elevators. These tiny choices added 3,000 extra steps per day.",
+        "author_ref_user_id": 161,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 6,
+        "text": "Taking the dog for a longer walk instead of just letting him out in the yard benefits both of us.",
+        "author_ref_user_id": 120,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 7,
+        "text": "I set a timer to stand up and stretch every 45 minutes during my workday. Those micro-breaks add up significantly.",
+        "author_ref_user_id": 138,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 8,
+        "text": "Playing active video games with my kids counts! We do dance games and I'm genuinely sore the next day.",
+        "author_ref_user_id": 148,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 49,
+        "comment_id": 9,
+        "text": "I do bodyweight exercises during TV commercial breaks. By the end of an evening show, I've done 50 squats without even trying.",
+        "author_ref_user_id": 106,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 15,
+    "messages_list": [
+      {
+        "post_id": 15,
+        "comment_id": null,
+        "text": "Recipes and tips for reducing sugar in your diet I replaced my afternoon candy bar with an apple and almond butter. Satisfies the sweet craving with actual nutrition.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 15,
+        "comment_id": 1,
+        "text": "Sparkling water with a squeeze of lemon replaced my soda habit. The fizz was what I actually craved, not the sugar.",
+        "author_ref_user_id": 156,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 15,
+        "comment_id": 2,
+        "text": "Reading nutrition labels was eye-opening. Pasta sauce, salad dressing, bread — sugar is hidden everywhere in processed foods.",
+        "author_ref_user_id": 167,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 15,
+        "comment_id": 3,
+        "text": "I gradually reduced sugar in my coffee over two weeks. One less teaspoon at a time. Now I actually prefer less sugar.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 15,
+        "comment_id": 4,
+        "text": "I batch-cook desserts using dates as a natural sweetener. Date brownies sound weird but taste incredible.",
+        "author_ref_user_id": 193,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 15,
+        "comment_id": 5,
+        "text": "The first two weeks of cutting sugar were rough — headaches, cravings, irritability. But after that, everything tasted better. My palette actually reset.",
+        "author_ref_user_id": 208,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 22,
+    "messages_list": [
+      {
+        "post_id": 22,
+        "comment_id": null,
+        "text": "What does 'self-care' actually look like in practice? Therapy, honestly. Regular sessions with my counselor are the single biggest self-care investment I make.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 22,
+        "comment_id": 1,
+        "text": "Scheduling my annual physical and actually going. The mental peace of knowing my numbers are in check is worth the mild inconvenience.",
+        "author_ref_user_id": 198,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 22,
+        "comment_id": 2,
+        "text": "Moving my body in ways that feel good, not punishing. Dancing, swimming, gentle walks — not forcing myself through workouts I hate.",
+        "author_ref_user_id": 251,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 22,
+        "comment_id": 3,
+        "text": "For me it's saying no to plans when I'm genuinely tired, without guilt. That's the hardest form of self-care.",
+        "author_ref_user_id": 222,
+        "reported_or_removed": true
+      }
+    ]
+  },
+  {
+    "post_id": 21,
+    "messages_list": [
+      {
+        "post_id": 21,
+        "comment_id": null,
+        "text": "How technology can support wellness goals — and when it gets in the way My fitness tracker kept me motivated for six months, then it started giving me anxiety about closing my rings. I had to take a break from it.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 21,
+        "comment_id": 1,
+        "text": "My favorite wellness tech is a simple timer app. I use it for meditation, stretching breaks, and water reminders. Low tech, high impact.",
+        "author_ref_user_id": 147,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 21,
+        "comment_id": 2,
+        "text": "I had to delete social media fitness accounts that were triggering body image issues. Curating my feed was an important step.",
+        "author_ref_user_id": 171,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 21,
+        "comment_id": 3,
+        "text": "Video workout classes let me exercise at 5am without going to a gym. Perfect for my schedule as a caregiver.",
+        "author_ref_user_id": 182,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 21,
+        "comment_id": 4,
+        "text": "Online support groups for chronic illness connected me to people who truly understand. That community has been invaluable.",
+        "author_ref_user_id": 206,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 21,
+        "comment_id": 5,
+        "text": "I think wearables are great for awareness but terrible for obsession. Finding the right balance is personal and important.",
+        "author_ref_user_id": 232,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 39,
+    "messages_list": [
+      {
+        "post_id": 39,
+        "comment_id": null,
+        "text": "Coping with a new health diagnosis and what helped you adjust My spouse learned about my condition alongside me. Going through the adjustment together strengthened our partnership enormously.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 1,
+        "text": "When I was diagnosed with type 2 diabetes, the first thing that helped was education. Understanding the condition removed some of the fear.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 2,
+        "text": "Taking it one day at a time instead of projecting worst-case scenarios into the future. Today, right now, is manageable.",
+        "author_ref_user_id": 119,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 3,
+        "text": "I asked my doctor a lot of questions and wasn't afraid to seek second opinions. Being proactive helped me feel more in control.",
+        "author_ref_user_id": 146,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 4,
+        "text": "I allowed myself to grieve the life I'd expected. It's okay to be upset about a diagnosis before you move into action mode.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 5,
+        "text": "Focusing on what I CAN do instead of what I can't was a critical mindset shift. There's so much life within the limitations.",
+        "author_ref_user_id": 154,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 6,
+        "text": "Writing about my experience helped me process the emotional side. The medical team handles the physical; I needed to handle the psychological.",
+        "author_ref_user_id": 122,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 7,
+        "text": "Finding a support community of people with the same condition was essential. They share practical tips no doctor ever mentioned.",
+        "author_ref_user_id": 113,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 39,
+        "comment_id": 8,
+        "text": "My spouse learned about my condition alongside me. Going through the adjustment together strengthened our partnership enormously.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 33,
+    "messages_list": [
+      {
+        "post_id": 33,
+        "comment_id": null,
+        "text": "What keeps you going on your hardest days? I keep a folder of kind text messages and cards from people I love. On hard days, I read through them as a reminder that I matter.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 1,
+        "text": "The people who are counting on me. My kids, my aging mother, my team at work. They give me a reason to keep showing up.",
+        "author_ref_user_id": 116,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 2,
+        "text": "My morning cup of coffee on the porch. Some days, it's the only thing that feels good, and that's enough to build on.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 3,
+        "text": "Physical movement, even when I don't want to. A five-minute walk often turns into twenty, and my mood shifts along the way.",
+        "author_ref_user_id": 125,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 4,
+        "text": "Calling one friend, even for five minutes. Human connection is the fastest way to remind myself I'm not alone in this.",
+        "author_ref_user_id": 150,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 5,
+        "text": "My therapist taught me to ask 'what's one thing I can do right now?' instead of being overwhelmed by everything. One thing. That's it.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 6,
+        "text": "Looking at photos of moments when I was genuinely happy. They remind me that joy exists and will come back around.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 7,
+        "text": "The knowledge that feelings are temporary. I've survived every bad day so far, and I'll survive this one too.",
+        "author_ref_user_id": 138,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 8,
+        "text": "Honestly? My dog. She needs to be walked and fed regardless of how I'm feeling, and her joy at seeing me makes even bad days better.",
+        "author_ref_user_id": 101,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 33,
+        "comment_id": 9,
+        "text": "Music. I have a playlist called 'Survival Mode' with songs that have gotten me through tough times. It works every time.",
+        "author_ref_user_id": 131,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 13,
+    "messages_list": [
+      {
+        "post_id": 13,
+        "comment_id": null,
+        "text": "How do you maintain a positive relationship with food? I focus on adding nutritious foods rather than restricting. More vegetables, more protein, more water. Addition, not subtraction.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 1,
+        "text": "I eat at a table now, not in front of screens. Paying attention to my meal makes me eat slower and enjoy it more.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 2,
+        "text": "Working with a registered dietitian helped me create a sustainable approach instead of cycling through extreme diets.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 3,
+        "text": "Cooking meals from scratch helps me appreciate food more. I know exactly what's in them and the process itself is meditative.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 4,
+        "text": "Having one treat a day without guilt keeps me from binge eating out of deprivation. A small piece of chocolate after lunch does the trick.",
+        "author_ref_user_id": 143,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 5,
+        "text": "I stopped labeling foods as 'good' or 'bad.' Pizza isn't evil and salad isn't virtuous. They're both just food.",
+        "author_ref_user_id": 158,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 6,
+        "text": "Learning to cook cuisines from different cultures expanded my dietary variety enormously. Thai, Ethiopian, Japanese — so many flavors.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 7,
+        "text": "Intuitive eating changed my entire relationship with food. Eating when hungry, stopping when satisfied. Revolutionary in its simplicity.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 8,
+        "text": "Family meals where we all sit together and talk have made eating a joyful social event instead of just fuel intake.",
+        "author_ref_user_id": 107,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 9,
+        "text": "I focus on adding nutritious foods rather than restricting. More vegetables, more protein, more water. Addition, not subtraction.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 13,
+        "comment_id": 10,
+        "text": "I eat at a table now, not in front of screens. Paying attention to my meal makes me eat slower and enjoy it more.",
+        "author_ref_user_id": 100,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 29,
+    "messages_list": [
+      {
+        "post_id": 29,
+        "comment_id": null,
+        "text": "Creative ways to stay socially connected despite physical limitations I host a virtual cooking night where friends and I make the same recipe simultaneously over video chat. It's chaotic and delightful.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 1,
+        "text": "Joining an online choir was remarkable. We each record our parts separately and they get mixed together. The result is beautiful.",
+        "author_ref_user_id": 147,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 2,
+        "text": "Phone calls are underrated. I schedule weekly calls with different friends. Something about voice-to-voice connection feels more intimate than texting.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 3,
+        "text": "I joined an online writing workshop. We write prompts together and share our work for gentle feedback. The community is incredibly supportive.",
+        "author_ref_user_id": 147,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 4,
+        "text": "Video calls with my book club every Thursday are the highlight of my week. We read, we discuss, we gossip. It's wonderful.",
+        "author_ref_user_id": 154,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 5,
+        "text": "I started sending handwritten notes to friends and family. People love receiving physical mail and it often starts a wonderful back-and-forth.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 6,
+        "text": "Online gaming with my grandkids is surprisingly fun! We play cooperative games and the laughter flows just like it would in person.",
+        "author_ref_user_id": 167,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 29,
+        "comment_id": 7,
+        "text": "Window gardening and sharing progress photos in a gardening group keeps me connected to other plant enthusiasts without leaving home.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 36,
+    "messages_list": [
+      {
+        "post_id": 36,
+        "comment_id": null,
+        "text": "The role of gratitude in mental wellness — overrated or genuinely helpful? My therapist cautioned against toxic positivity disguised as gratitude. You can be grateful AND acknowledge pain. Both are valid.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 1,
+        "text": "Gratitude doesn't mean ignoring problems. It means acknowledging that alongside the difficulties, good things also exist.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 2,
+        "text": "The research on gratitude and improved sleep quality convinced me to try it. The science is surprisingly robust.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 3,
+        "text": "Expressing gratitude to others has strengthened my relationships more than any other practice. A simple sincere thank-you goes far.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 4,
+        "text": "I was deeply skeptical about gratitude journals until I committed to three months. The shift in my default thinking was undeniable.",
+        "author_ref_user_id": 147,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 5,
+        "text": "I don't think it's a cure-all, but as part of a broader wellness practice, it's a powerful piece of the puzzle.",
+        "author_ref_user_id": 156,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 6,
+        "text": "I write three things I'm grateful for every night. Some days it's profound — my health, my family. Some days it's my warm socks. Both count.",
+        "author_ref_user_id": 163,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 7,
+        "text": "I think it works because it trains your brain to notice good things that were always there but getting drowned out by the negative.",
+        "author_ref_user_id": 165,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 36,
+        "comment_id": 8,
+        "text": "My therapist cautioned against toxic positivity disguised as gratitude. You can be grateful AND acknowledge pain. Both are valid.",
+        "author_ref_user_id": 133,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 20,
+    "messages_list": [
+      {
+        "post_id": 20,
+        "comment_id": null,
+        "text": "What morning routines help you start the day with more energy? I've been making smoothies with spinach, banana, and protein powder. Quick, nutritious, and I don't have to think about it while I'm still half asleep.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 20,
+        "comment_id": 1,
+        "text": "Has anyone tried meditation apps for morning practice? I'm looking for one that's good for beginners who can't sit still very long.",
+        "author_ref_user_id": 196,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 20,
+        "comment_id": 2,
+        "text": "I started journaling first thing in the morning. Just five minutes of writing down three things I'm grateful for. It shifts my whole mindset for the day.",
+        "author_ref_user_id": 224,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 20,
+        "comment_id": 3,
+        "text": "My routine is simple: glass of water, 10-minute walk outside, then breakfast. Getting sunlight early helps reset my circadian rhythm.",
+        "author_ref_user_id": 249,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 20,
+        "comment_id": 4,
+        "text": "I do a 7-minute workout from an app. It's short enough that I can't talk myself out of it, but intense enough to get my blood flowing.",
+        "author_ref_user_id": 262,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 20,
+        "comment_id": 5,
+        "text": "I've been waking up 30 minutes earlier to do some light stretching and it's made a huge difference. My joints feel less stiff and I have more energy by mid-morning.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 38,
+    "messages_list": [
+      {
+        "post_id": 38,
+        "comment_id": null,
+        "text": "Tips for managing stress during busy work periods? I started saying no to meetings that don't require my presence. Freed up hours every week and reduced my overwhelm significantly.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 38,
+        "comment_id": 1,
+        "text": "I've been using the Pomodoro technique — 25 minutes of focused work, then a 5-minute break. It prevents me from burning out by midday.",
+        "author_ref_user_id": 177,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 38,
+        "comment_id": 2,
+        "text": "Setting clear boundaries between work and personal time has been essential. I close my laptop at 6pm no matter what's left on my to-do list.",
+        "author_ref_user_id": 219,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 38,
+        "comment_id": 3,
+        "text": "I prioritize my task list the night before so I know exactly what needs attention first thing. Reduces that morning panic feeling.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 38,
+        "comment_id": 4,
+        "text": "Taking a real lunch break instead of eating at my desk makes such a difference. Even 20 minutes away from screens helps.",
+        "author_ref_user_id": 188,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 19,
+    "messages_list": [
+      {
+        "post_id": 19,
+        "comment_id": null,
+        "text": "How do you stay motivated to exercise when the weather is bad? I dance around my living room! Put on some music and just move. It doesn't have to be structured to count as exercise.",
+        "author_ref_user_id": 112,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 1,
+        "text": "I invested in a yoga mat and some resistance bands. Having equipment at home removes the excuse of not wanting to go out in the rain.",
+        "author_ref_user_id": 132,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 2,
+        "text": "Indoor swimming at the community pool has been great. The warm water is actually extra appealing when it's cold outside.",
+        "author_ref_user_id": 116,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 3,
+        "text": "I remind myself that I've never regretted a workout, only the ones I skip. That mental reframe usually gets me off the couch.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 4,
+        "text": "I joined an indoor climbing gym. It's fun enough that I actually look forward to going, rain or shine.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 5,
+        "text": "I set up a small home gym in my garage. Even just a bench and some free weights gives me options on bad weather days.",
+        "author_ref_user_id": 160,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 6,
+        "text": "Walking in the mall counts! It's climate-controlled, flat, and you can window shop while getting your steps in.",
+        "author_ref_user_id": 105,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 7,
+        "text": "Online workout videos are my savior during winter. There are free ones for every fitness level and they keep me moving without leaving the house.",
+        "author_ref_user_id": 141,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 19,
+        "comment_id": 8,
+        "text": "I dance around my living room! Put on some music and just move. It doesn't have to be structured to count as exercise.",
+        "author_ref_user_id": 121,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 5,
+    "messages_list": [
+      {
+        "post_id": 5,
+        "comment_id": null,
+        "text": "What healthy meals do you actually enjoy cooking? Salmon with roasted asparagus is my favorite special dinner. The omega-3s are great for brain health and it feels fancy without being complicated.",
+        "author_ref_user_id": 149,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 5,
+        "comment_id": 1,
+        "text": "I started making my own trail mix with almonds, dried cranberries, dark chocolate chips, and pumpkin seeds. Perfect for afternoon snacking.",
+        "author_ref_user_id": 175,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 5,
+        "comment_id": 2,
+        "text": "Greek yogurt bowls with fruit, granola, and a drizzle of honey. Simple, satisfying, and loaded with protein.",
+        "author_ref_user_id": 235,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 5,
+        "comment_id": 3,
+        "text": "My crock pot is my best friend. I throw in ingredients in the morning and come home to a house that smells incredible.",
+        "author_ref_user_id": 277,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 5,
+        "comment_id": 4,
+        "text": "I make a big pot of vegetable soup on Sundays that lasts me several days. It's cheap, nutritious, and impossibly easy.",
+        "author_ref_user_id": 248,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 5,
+        "comment_id": 5,
+        "text": "Sheet pan dinners are my go-to. Throw some chicken, sweet potatoes, and broccoli on a pan, season everything, and bake for 25 minutes. Minimal cleanup too!",
+        "author_ref_user_id": 149,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 5,
+        "comment_id": 6,
+        "text": "I've gotten really into Buddha bowls — rice, roasted veggies, chickpeas, and a tahini dressing. Looks beautiful and tastes amazing.",
+        "author_ref_user_id": 201,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 5,
+        "comment_id": 7,
+        "text": "Has anyone tried cauliflower rice? I was skeptical but it's actually really good in fried rice dishes. Way fewer carbs.",
+        "author_ref_user_id": 238,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 5,
+        "comment_id": 8,
+        "text": "Overnight oats have revolutionized my mornings. I prep five jars on Sunday and grab one each day. So many flavor combinations possible.",
+        "author_ref_user_id": 149,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 5,
+        "comment_id": 9,
+        "text": "Stir-fry with whatever vegetables are in the fridge, some tofu or shrimp, and a simple sauce. Ready in 15 minutes.",
+        "author_ref_user_id": 214,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 5,
+        "comment_id": 10,
+        "text": "Salmon with roasted asparagus is my favorite special dinner. The omega-3s are great for brain health and it feels fancy without being complicated.",
+        "author_ref_user_id": 149,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 1,
+    "messages_list": [
+      {
+        "post_id": 1,
+        "comment_id": null,
+        "text": "Strategies for improving sleep quality Cutting caffeine after noon was hard but worth it. I didn't realize how much my afternoon coffee was affecting my sleep hours later.",
+        "author_ref_user_id": 132,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 1,
+        "text": "I started a bedtime stretching routine of about 10 minutes of gentle yoga poses. My body feels so much more relaxed when I get into bed.",
+        "author_ref_user_id": 146,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 2,
+        "text": "Magnesium supplements before bed have helped me fall asleep faster. Obviously check with your doctor first, but it worked for me.",
+        "author_ref_user_id": 154,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 3,
+        "text": "I write down my worries in a notebook before bed — almost like giving them to the paper so my brain can let go.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 4,
+        "text": "I use a white noise machine and it blocks out all the random sounds that used to wake me up at night.",
+        "author_ref_user_id": 136,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 5,
+        "text": "No screens after 9pm is my rule. I switch to a paperback book and it helps my brain wind down naturally.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 6,
+        "text": "Keeping my bedroom cool — around 65 degrees — has made the biggest difference. I used to keep it too warm and wondered why I tossed and turned.",
+        "author_ref_user_id": 151,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 7,
+        "text": "A consistent bedtime, even on weekends, has been game-changing. My body naturally gets sleepy at the right time now.",
+        "author_ref_user_id": 114,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 1,
+        "comment_id": 8,
+        "text": "Weighted blankets are amazing. Mine feels like a hug and I fall asleep so much faster. Highly recommend trying one.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 40,
+    "messages_list": [
+      {
+        "post_id": 40,
+        "comment_id": null,
+        "text": "Finding balance between caring for aging parents and maintaining your own health Setting boundaries around phone calls helped. My dad would call ten times a day for minor things. We established set check-in times.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 40,
+        "comment_id": 1,
+        "text": "I learned the hard way that you can't pour from an empty cup. Scheduling my own doctor appointments and therapy sessions is non-negotiable now.",
+        "author_ref_user_id": 112,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 40,
+        "comment_id": 2,
+        "text": "I had to accept that I can't do everything perfectly. Good enough has to be good enough sometimes, and that's okay.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 40,
+        "comment_id": 3,
+        "text": "Regular respite care weekends have saved my mental health. Having two full days to rest and do things I enjoy keeps me going.",
+        "author_ref_user_id": 136,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 40,
+        "comment_id": 4,
+        "text": "Meal delivery services for my parents removed one huge stressor from my plate. The meals are nutritious and they enjoy the variety.",
+        "author_ref_user_id": 150,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 31,
+    "messages_list": [
+      {
+        "post_id": 31,
+        "comment_id": null,
+        "text": "Best apps and tools for tracking health and wellness goals I use a water reminder app that buzzes every hour. Simple but it doubled my daily water intake. Turns out I was chronically dehydrated.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 1,
+        "text": "The meditation app I use has a streak feature. I'm on day 147 and the thought of breaking my streak keeps me sitting down for those ten minutes daily.",
+        "author_ref_user_id": 156,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 2,
+        "text": "I use a habit tracking app where I check off daily tasks — water intake, stretching, meditation. Something about those little checkmarks keeps me motivated.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 3,
+        "text": "My blood pressure monitoring app syncs with a wireless cuff and tracks trends over time. Made it so much easier to share data with my doctor.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 4,
+        "text": "Meal tracking apps helped me realize how much hidden sugar was in my diet. Really eye-opening when you start logging everything.",
+        "author_ref_user_id": 141,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 5,
+        "text": "My fitness watch has been great for accountability. Seeing how many steps I've taken and my heart rate trends helps me adjust my activity level.",
+        "author_ref_user_id": 161,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 6,
+        "text": "I tried a mood tracking journal app where I rate my mood three times a day. After a month, the patterns were really interesting and helpful.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 31,
+        "comment_id": 7,
+        "text": "I keep a simple spreadsheet for my health goals. Nothing fancy, just a weekly check-in with myself on sleep, exercise, mood, and nutrition.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 28,
+    "messages_list": [
+      {
+        "post_id": 28,
+        "comment_id": null,
+        "text": "How to make friends as an adult — it's harder than it seems! Being the one to initiate plans was key for me. I had to get over the fear of rejection and just start inviting people to coffee.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 1,
+        "text": "I started attending a weekly trivia night at a local pub. At first I went alone, but now I have a regular team of four people I consider real friends.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 2,
+        "text": "Volunteering has been the best way for me to meet like-minded people. We bond over shared values and the work gives us something to talk about.",
+        "author_ref_user_id": 112,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 3,
+        "text": "Online communities around specific interests led to real-life friendships for me. Started with a photography forum, now we do photo walks together.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 4,
+        "text": "Dog parks are secretly amazing for making friends. The dogs break the ice and suddenly you're chatting with people every morning.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 5,
+        "text": "I moved to a new city at 45 and thought I'd never make friends again. Two years later I have a wonderful circle through my community garden plot.",
+        "author_ref_user_id": 150,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 6,
+        "text": "I was honest with a coworker about wanting more social connections outside of work. Turns out she felt the same way. Now we do things together regularly.",
+        "author_ref_user_id": 132,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 28,
+        "comment_id": 7,
+        "text": "Taking a cooking class introduced me to a whole group of food enthusiasts. We still get together monthly to try new recipes.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 50,
+    "messages_list": [
+      {
+        "post_id": 50,
+        "comment_id": null,
+        "text": "Dealing with chronic pain — what helps you cope? An ergonomic workstation evaluation changed my daily pain levels dramatically. My desk and chair were causing half my problems.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 1,
+        "text": "Swimming has been the single best thing for my chronic back pain. The water supports my spine and the movement keeps me from stiffening up.",
+        "author_ref_user_id": 139,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 2,
+        "text": "Cognitive behavioral therapy for pain helped me reframe my relationship with it. The pain hasn't gone away, but my response to it has completely changed.",
+        "author_ref_user_id": 151,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 3,
+        "text": "Gentle tai chi in the park every morning. The slow, deliberate movements strengthen my body without the impact that makes pain worse.",
+        "author_ref_user_id": 175,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 4,
+        "text": "Acupuncture has been surprisingly helpful. I was skeptical at first, but after six sessions my shoulder mobility improved significantly.",
+        "author_ref_user_id": 162,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 5,
+        "text": "Accepting that some days will be worse than others, and planning accordingly, has reduced my frustration immeasurably.",
+        "author_ref_user_id": 103,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 6,
+        "text": "Heat therapy before bed and ice therapy after activity. Learning when to use which one was a game changer for my arthritis management.",
+        "author_ref_user_id": 185,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 50,
+        "comment_id": 7,
+        "text": "Finding a physical therapist who actually listens to me was crucial. Not all pain management approaches work for everyone.",
+        "author_ref_user_id": 217,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 16,
+    "messages_list": [
+      {
+        "post_id": 16,
+        "comment_id": null,
+        "text": "Mindfulness and meditation for beginners — where do I start? Body scan meditations are great for beginners because they give your mind something specific to focus on instead of 'think about nothing.'",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 16,
+        "comment_id": 1,
+        "text": "I tried guided meditations through an app and the narrator's voice made all the difference. Some voices just feel more calming than others.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 16,
+        "comment_id": 2,
+        "text": "A meditation group at my local library meets Saturday mornings. Having others around made it feel less weird when I was starting out.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 16,
+        "comment_id": 3,
+        "text": "Breathing exercises are the simplest entry point. Four counts in, hold for four, out for six. Do it anywhere, anytime.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 16,
+        "comment_id": 4,
+        "text": "Don't judge yourself for having a busy mind. That's literally what minds do. The practice is in gently bringing your attention back.",
+        "author_ref_user_id": 185,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 16,
+        "comment_id": 5,
+        "text": "Walking meditation was my gateway in. I couldn't sit still, but paying close attention to each step while walking worked for me.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 16,
+        "comment_id": 6,
+        "text": "Mindful eating was my first mindfulness practice. Taking time to actually taste and appreciate food slowed everything down.",
+        "author_ref_user_id": 227,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 42,
+    "messages_list": [
+      {
+        "post_id": 42,
+        "comment_id": null,
+        "text": "What hobbies have you picked up that improved your overall wellbeing? Adult coloring books. I know they seem like a trend, but the focused attention on colors and patterns is genuinely relaxing after a stressful day.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 1,
+        "text": "Woodworking in my garage has given me something productive to do with my hands. Making gifts for people adds meaning to it.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 2,
+        "text": "Bird watching transformed my daily walks from boring exercise into exciting treasure hunts. I've logged over 60 species this year alone!",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 3,
+        "text": "Puzzle assembling has been my evening wind-down activity. It's quiet, meditative, and gives me a satisfying sense of completion.",
+        "author_ref_user_id": 192,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 4,
+        "text": "I started learning guitar at 52. It's hard and humbling, but the focus required takes my mind completely off my worries.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 5,
+        "text": "Photography got me exploring my city in ways I never had before. I notice details now — light, shadows, textures — that make everyday walks beautiful.",
+        "author_ref_user_id": 242,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 6,
+        "text": "I started a blog about my health journey. Writing helps me process my experiences and knowing others read it keeps me accountable.",
+        "author_ref_user_id": 200,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 7,
+        "text": "I picked up amateur astronomy. Stargazing on clear nights gives me perspective on my problems. The universe is vast and beautiful.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 8,
+        "text": "Gardening has been incredible for my mental health. Getting my hands in soil, watching things grow, being outside in the sun. It checks every box.",
+        "author_ref_user_id": 215,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 42,
+        "comment_id": 9,
+        "text": "Baking bread has become a weekly ritual. The process is meditative and sharing fresh loaves with neighbors has strengthened our community.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 35,
+    "messages_list": [
+      {
+        "post_id": 35,
+        "comment_id": null,
+        "text": "Navigating the healthcare system — tips for being your own advocate Patient portals are underused. I review all my lab results online and send questions to my doctor through the messaging system between visits.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 35,
+        "comment_id": 1,
+        "text": "Don't minimize your symptoms. I spent years saying 'it's probably nothing' when my body was telling me something was wrong.",
+        "author_ref_user_id": 178,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 35,
+        "comment_id": 2,
+        "text": "Getting a second opinion saved my life, literally. Don't feel guilty about questioning a diagnosis that doesn't feel right to you.",
+        "author_ref_user_id": 197,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 35,
+        "comment_id": 3,
+        "text": "Always bring a written list of questions to appointments. I used to forget everything the moment the doctor walked in.",
+        "author_ref_user_id": 221,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 35,
+        "comment_id": 4,
+        "text": "I learned to ask 'What would you recommend for your own family member in this situation?' It changes the quality of advice I receive.",
+        "author_ref_user_id": 246,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 35,
+        "comment_id": 5,
+        "text": "Ask your doctor to explain things in plain language. You have every right to understand your own health situation completely.",
+        "author_ref_user_id": 275,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 35,
+        "comment_id": 6,
+        "text": "Researching my condition before appointments means I can have informed conversations with my care team. Knowledge is power.",
+        "author_ref_user_id": 187,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 23,
+    "messages_list": [
+      {
+        "post_id": 23,
+        "comment_id": null,
+        "text": "Setting realistic wellness goals that actually stick I give myself permission to do less on hard days instead of skipping entirely. A 10-minute walk is better than no walk at all.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 1,
+        "text": "Tracking my progress visually with a calendar on my fridge wall — crossing off days — gives me a tangible sense of accomplishment.",
+        "author_ref_user_id": 108,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 2,
+        "text": "I plan for failure. Seriously. Knowing I'll miss some days and having a plan for getting back on track prevents me from giving up entirely.",
+        "author_ref_user_id": 119,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 3,
+        "text": "I only change one habit at a time. Trying to overhaul my entire lifestyle in January led to total failure. Sequential changes actually stuck.",
+        "author_ref_user_id": 123,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 4,
+        "text": "The two-minute rule changed everything: if a new habit takes less than two minutes, do it. That's how I started flossing every night.",
+        "author_ref_user_id": 136,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 5,
+        "text": "I switched from outcome goals to habit goals. Instead of 'lose 20 pounds,' my goal became 'eat a salad with lunch every weekday.' Much more achievable.",
+        "author_ref_user_id": 149,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 6,
+        "text": "I stopped trying to find motivation and started building discipline. Motivation is unreliable. Systems and routines work even on bad days.",
+        "author_ref_user_id": 153,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 7,
+        "text": "Celebrating small wins has been crucial. Each healthy meal, each workout, each good night's sleep deserves acknowledgment.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 8,
+        "text": "Pairing a habit I want with one I already enjoy works great. I listen to podcasts I love, but only while exercising.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 9,
+        "text": "Accountability partners are underrated. My friend and I text each other our daily step counts. Neither of us wants to be the one who didn't walk.",
+        "author_ref_user_id": 128,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 23,
+        "comment_id": 10,
+        "text": "I give myself permission to do less on hard days instead of skipping entirely. A 10-minute walk is better than no walk at all.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 3,
+    "messages_list": [
+      {
+        "post_id": 3,
+        "comment_id": null,
+        "text": "How grief changes your perspective on living well I find myself more empathetic since experiencing loss. I listen differently when people share their struggles. Pain teaches compassion.",
+        "author_ref_user_id": 102,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 1,
+        "text": "I started volunteering at a hospice. It sounds heavy, but being present for people in their final chapter has deepened my appreciation for life.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 2,
+        "text": "Grief taught me that time is truly limited. I stopped postponing things I cared about — the trip, the art class, the difficult conversation.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 3,
+        "text": "Losing my mother made me finally take my health seriously. She always wanted me to, and now I feel like I'm honoring her by doing it.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 4,
+        "text": "Writing letters to my late husband helps me process. I tell him about my day, my goals, my fears. It keeps our connection alive while helping me move forward.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 5,
+        "text": "My father's health battle showed me the importance of preventive care. Regular checkups feel like a gift now, not a chore.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 6,
+        "text": "The grief support group introduced me to people who became genuine friends. Shared vulnerability creates incredibly strong bonds.",
+        "author_ref_user_id": 160,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 7,
+        "text": "I used to take mornings for granted. Now I appreciate every single one. A cup of coffee in the garden feels like a miracle some days.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 8,
+        "text": "I find myself more empathetic since experiencing loss. I listen differently when people share their struggles. Pain teaches compassion.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 3,
+        "comment_id": 9,
+        "text": "I started volunteering at a hospice. It sounds heavy, but being present for people in their final chapter has deepened my appreciation for life.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 17,
+    "messages_list": [
+      {
+        "post_id": 17,
+        "comment_id": null,
+        "text": "Building confidence to try new things after 50 The biggest lesson: nobody is watching as closely as you think. Most people are too busy worrying about themselves to judge you.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 17,
+        "comment_id": 1,
+        "text": "My advice: start before you feel ready. If I waited until I felt confident enough to try surfing at 58, I'd still be waiting. Just go.",
+        "author_ref_user_id": 185,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 17,
+        "comment_id": 2,
+        "text": "I auditioned for a community theater production and got a small part. The standing ovation at closing night was worth every nervous rehearsal.",
+        "author_ref_user_id": 206,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 17,
+        "comment_id": 3,
+        "text": "My grandkids think it's the coolest thing that their grandmother is learning to skateboard. Their enthusiasm is better than any confidence boost.",
+        "author_ref_user_id": 240,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 17,
+        "comment_id": 4,
+        "text": "Imposter syndrome doesn't disappear with age, but I've learned that feeling uncomfortable just means I'm growing. That reframe changes everything.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 17,
+        "comment_id": 5,
+        "text": "I signed up for a dance class at 55 and I was terrified. Turns out the class was full of people my age, all equally nervous. We laugh together every week.",
+        "author_ref_user_id": 260,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 18,
+    "messages_list": [
+      {
+        "post_id": 18,
+        "comment_id": null,
+        "text": "Dealing with seasonal changes and their effect on mood and energy Having indoor hobbies for bad weather and outdoor ones for nice weather means I always have something engaging to do regardless of the forecast.",
+        "author_ref_user_id": 104,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 1,
+        "text": "I noticed my vitamin D levels drop every winter. Supplementing under my doctor's guidance has been really helpful.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 2,
+        "text": "I plan something to look forward to each month during the darker seasons. A concert, a dinner party, a weekend trip. Anticipation helps.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 3,
+        "text": "Adjusting my exercise routine seasonally keeps it fresh. Swimming in summer, indoor yoga in winter, hiking in spring and fall.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 4,
+        "text": "Hot soups and stews in winter aren't just comfort food — they're packed with vegetables and keep me nourished when I'm tempted to eat poorly.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 5,
+        "text": "I force myself to go outside every day, even in winter. Even 15 minutes of natural light makes a measurable difference.",
+        "author_ref_user_id": 155,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 6,
+        "text": "Winter is brutal for my mood. I invested in a light therapy lamp and use it for 30 minutes every morning. It genuinely helps take the edge off.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 7,
+        "text": "Spring cleaning isn't just for houses. I use the season change to refresh my goals, reorganize my space, and reset my routines.",
+        "author_ref_user_id": 144,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 18,
+        "comment_id": 8,
+        "text": "Having indoor hobbies for bad weather and outdoor ones for nice weather means I always have something engaging to do regardless of the forecast.",
+        "author_ref_user_id": 148,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 34,
+    "messages_list": [
+      {
+        "post_id": 34,
+        "comment_id": null,
+        "text": "How do you handle setbacks in your health journey? Every expert was once a beginner who had setbacks. That thought keeps me going when I feel like I'm failing at my health goals.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 34,
+        "comment_id": 1,
+        "text": "Adjusting my expectations without abandoning them entirely has been key. Injury means I modify my exercise, not stop entirely.",
+        "author_ref_user_id": 177,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 34,
+        "comment_id": 2,
+        "text": "Having a support network makes setbacks survivable. My walking group sent encouraging messages when I had to take a break after surgery.",
+        "author_ref_user_id": 188,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 34,
+        "comment_id": 3,
+        "text": "I scheduled a 'reset day' once a month where I reassess my goals and adjust if needed. It prevents small setbacks from becoming permanent detours.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 34,
+        "comment_id": 4,
+        "text": "I document both my setbacks and my comebacks. Looking back at how I've bounced back before gives me confidence that I can do it again.",
+        "author_ref_user_id": 213,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 34,
+        "comment_id": 5,
+        "text": "I try to be curious instead of critical when things go sideways. What went wrong? What can I learn? Instead of beating myself up.",
+        "author_ref_user_id": 188,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 34,
+        "comment_id": 6,
+        "text": "My physical therapist told me 'two steps forward, one step back is still one step forward.' I think about that a lot.",
+        "author_ref_user_id": 177,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 47,
+    "messages_list": [
+      {
+        "post_id": 47,
+        "comment_id": null,
+        "text": "Benefits of spending time in nature for mental health Swimming in a lake versus a pool hits different. Something about the open air and natural water just feels more restorative.",
+        "author_ref_user_id": 100,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 47,
+        "comment_id": 1,
+        "text": "When I feel overwhelmed at work, I step outside and put my bare feet in the grass for five minutes. Sounds new age but it genuinely works.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 47,
+        "comment_id": 2,
+        "text": "I take my phone calls while walking in the park now instead of pacing my apartment. Same conversation, completely different stress response.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 47,
+        "comment_id": 3,
+        "text": "Even just sitting on my patio with morning coffee and listening to the birds makes my day start better than checking news on my phone.",
+        "author_ref_user_id": 143,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 47,
+        "comment_id": 4,
+        "text": "Teaching my kids to identify trees and wildflowers has reconnected me with the natural world in a way I hadn't experienced since childhood.",
+        "author_ref_user_id": 158,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 47,
+        "comment_id": 5,
+        "text": "Bird song is basically free therapy. Studies show even recordings of nature sounds lower cortisol levels.",
+        "author_ref_user_id": 150,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 47,
+        "comment_id": 6,
+        "text": "Camping once a month has become my mental health reset button. Something about sleeping outside recalibrates my nervous system.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 12,
+    "messages_list": [
+      {
+        "post_id": 12,
+        "comment_id": null,
+        "text": "Managing anxiety without medication — what works for you? Connection with other humans. When I isolate, my anxiety spirals. Even just texting a friend helps break the cycle.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 12,
+        "comment_id": 1,
+        "text": "Reducing social media consumption cut my anxiety in half. I wasn't even aware of how much scrolling was feeding my worry loops.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 12,
+        "comment_id": 2,
+        "text": "Limiting caffeine was huge for me. I switched to half-caff and then decaf, and my baseline anxiety dropped noticeably.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 12,
+        "comment_id": 3,
+        "text": "Therapy — specifically CBT — taught me to identify and challenge catastrophic thinking patterns. That skill changed everything.",
+        "author_ref_user_id": 141,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 12,
+        "comment_id": 4,
+        "text": "Cold water exposure. A cold shower or even splashing cold water on my face during a panic moment brings me back to my body immediately.",
+        "author_ref_user_id": 245,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 12,
+        "comment_id": 5,
+        "text": "Regular exercise is my primary anxiety management tool. Something about the physical exertion burns off the nervous energy.",
+        "author_ref_user_id": 208,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 12,
+        "comment_id": 6,
+        "text": "Magnesium glycinate before bed and L-theanine in the morning. Both were recommended by my naturopath and the difference is subtle but real.",
+        "author_ref_user_id": 189,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 52,
+    "messages_list": [
+      {
+        "post_id": 52,
+        "comment_id": null,
+        "text": "Simple ways to add more movement to a sedentary lifestyle I set a timer to stand up and stretch every 45 minutes during my workday. Those micro-breaks add up significantly.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 1,
+        "text": "I got a pedal exerciser that fits under my desk. I can cycle while answering emails. Nobody on video calls even notices.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 2,
+        "text": "Walking meetings! I convinced my team to do phone calls while walking. We cover the same material but feel so much better afterward.",
+        "author_ref_user_id": 116,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 3,
+        "text": "A standing desk was a great investment. I alternate between sitting and standing every hour.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 4,
+        "text": "I park at the far end of every parking lot and take stairs instead of elevators. These tiny choices added 3,000 extra steps per day.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 5,
+        "text": "Walking to pick up lunch instead of ordering delivery gets me 20 minutes of movement and fresh air in the middle of the day.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 6,
+        "text": "Taking the dog for a longer walk instead of just letting him out in the yard benefits both of us.",
+        "author_ref_user_id": 116,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 52,
+        "comment_id": 7,
+        "text": "I do bodyweight exercises during TV commercial breaks. By the end of an evening show, I've done 50 squats without even trying.",
+        "author_ref_user_id": 134,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 24,
+    "messages_list": [
+      {
+        "post_id": 24,
+        "comment_id": null,
+        "text": "Recipes and tips for reducing sugar in your diet Sparkling water with a squeeze of lemon replaced my soda habit. The fizz was what I actually craved, not the sugar.",
+        "author_ref_user_id": 169,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 24,
+        "comment_id": 1,
+        "text": "I replaced my afternoon candy bar with an apple and almond butter. Satisfies the sweet craving with actual nutrition.",
+        "author_ref_user_id": 186,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 24,
+        "comment_id": 2,
+        "text": "I gradually reduced sugar in my coffee over two weeks. One less teaspoon at a time. Now I actually prefer less sugar.",
+        "author_ref_user_id": 240,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 24,
+        "comment_id": 3,
+        "text": "Dark chocolate (85% or higher) satisfies my chocolate craving while keeping sugar minimal. Takes some getting used to but it's worth it.",
+        "author_ref_user_id": 259,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 24,
+        "comment_id": 4,
+        "text": "The first two weeks of cutting sugar were rough — headaches, cravings, irritability. But after that, everything tasted better. My palette actually reset.",
+        "author_ref_user_id": 272,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 24,
+        "comment_id": 5,
+        "text": "Reading nutrition labels was eye-opening. Pasta sauce, salad dressing, bread — sugar is hidden everywhere in processed foods.",
+        "author_ref_user_id": 264,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 24,
+        "comment_id": 6,
+        "text": "I make my own granola because store-bought versions are basically candy bars in disguise. Oats, nuts, coconut oil, and just a little honey.",
+        "author_ref_user_id": 211,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 24,
+        "comment_id": 7,
+        "text": "I batch-cook desserts using dates as a natural sweetener. Date brownies sound weird but taste incredible.",
+        "author_ref_user_id": 169,
+        "reported_or_removed": true
+      }
+    ]
+  },
+  {
+    "post_id": 10,
+    "messages_list": [
+      {
+        "post_id": 10,
+        "comment_id": null,
+        "text": "What does 'self-care' actually look like in practice? Scheduling my annual physical and actually going. The mental peace of knowing my numbers are in check is worth the mild inconvenience.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 1,
+        "text": "Taking my full vacation days from work. I used to let them expire thinking I was being dedicated. Now I know that rest makes me better at everything.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 2,
+        "text": "Moving my body in ways that feel good, not punishing. Dancing, swimming, gentle walks — not forcing myself through workouts I hate.",
+        "author_ref_user_id": 135,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 3,
+        "text": "For me it's saying no to plans when I'm genuinely tired, without guilt. That's the hardest form of self-care.",
+        "author_ref_user_id": 140,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 4,
+        "text": "Setting phone boundaries — specifically not answering calls during family dinner. Whatever it is, it can wait 30 minutes.",
+        "author_ref_user_id": 115,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 5,
+        "text": "Therapy, honestly. Regular sessions with my counselor are the single biggest self-care investment I make.",
+        "author_ref_user_id": 154,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 6,
+        "text": "Going to bed early when I need to instead of pushing through to watch another episode. Choosing sleep is choosing myself.",
+        "author_ref_user_id": 160,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 7,
+        "text": "Cleaning and organizing my living space. A tidy environment genuinely reduces my mental clutter and stress levels.",
+        "author_ref_user_id": 166,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 8,
+        "text": "Cooking a meal just for myself that I actually enjoy, not just whatever is fastest. I deserve the same effort I'd give a dinner guest.",
+        "author_ref_user_id": 231,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 10,
+        "comment_id": 9,
+        "text": "A hot bath with Epsom salts on Sunday evening. My muscles thank me and it marks the transition from weekend to work week.",
+        "author_ref_user_id": 204,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 10,
+        "comment_id": 10,
+        "text": "Scheduling my annual physical and actually going. The mental peace of knowing my numbers are in check is worth the mild inconvenience.",
+        "author_ref_user_id": 196,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 32,
+    "messages_list": [
+      {
+        "post_id": 32,
+        "comment_id": null,
+        "text": "How technology can support wellness goals — and when it gets in the way My fitness tracker kept me motivated for six months, then it started giving me anxiety about closing my rings. I had to take a break from it.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 1,
+        "text": "Medication reminder apps have been a godsend. I have complex prescriptions and the notifications prevent me from missing doses.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 2,
+        "text": "Telehealth appointments have been amazing for accessibility. I can see my therapist from home, which removes a huge barrier on bad days.",
+        "author_ref_user_id": 176,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 3,
+        "text": "The comparison trap on social media is real. I had to learn that someone else's highlight reel isn't my daily reality.",
+        "author_ref_user_id": 193,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 4,
+        "text": "I think wearables are great for awareness but terrible for obsession. Finding the right balance is personal and important.",
+        "author_ref_user_id": 239,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 5,
+        "text": "I had to delete social media fitness accounts that were triggering body image issues. Curating my feed was an important step.",
+        "author_ref_user_id": 245,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 6,
+        "text": "Online support groups for chronic illness connected me to people who truly understand. That community has been invaluable.",
+        "author_ref_user_id": 259,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 7,
+        "text": "Sleep tracking apps made me obsess over my sleep score, which ironically made my sleep worse. Sometimes less data is more.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 8,
+        "text": "Video workout classes let me exercise at 5am without going to a gym. Perfect for my schedule as a caregiver.",
+        "author_ref_user_id": 268,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 9,
+        "text": "My favorite wellness tech is a simple timer app. I use it for meditation, stretching breaks, and water reminders. Low tech, high impact.",
+        "author_ref_user_id": 209,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 10,
+        "text": "My fitness tracker kept me motivated for six months, then it started giving me anxiety about closing my rings. I had to take a break from it.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 11,
+        "text": "Medication reminder apps have been a godsend. I have complex prescriptions and the notifications prevent me from missing doses.",
+        "author_ref_user_id": 193,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 12,
+        "text": "Telehealth appointments have been amazing for accessibility. I can see my therapist from home, which removes a huge barrier on bad days.",
+        "author_ref_user_id": 259,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 13,
+        "text": "The comparison trap on social media is real. I had to learn that someone else's highlight reel isn't my daily reality.",
+        "author_ref_user_id": 245,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 14,
+        "text": "I think wearables are great for awareness but terrible for obsession. Finding the right balance is personal and important.",
+        "author_ref_user_id": 268,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 15,
+        "text": "I had to delete social media fitness accounts that were triggering body image issues. Curating my feed was an important step.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 16,
+        "text": "Online support groups for chronic illness connected me to people who truly understand. That community has been invaluable.",
+        "author_ref_user_id": 209,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 32,
+        "comment_id": 17,
+        "text": "Sleep tracking apps made me obsess over my sleep score, which ironically made my sleep worse. Sometimes less data is more.",
+        "author_ref_user_id": 259,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 32,
+        "comment_id": 18,
+        "text": "Video workout classes let me exercise at 5am without going to a gym. Perfect for my schedule as a caregiver.",
+        "author_ref_user_id": 176,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 25,
+    "messages_list": [
+      {
+        "post_id": 25,
+        "comment_id": null,
+        "text": "Coping with a new health diagnosis and what helped you adjust Writing about my experience helped me process the emotional side. The medical team handles the physical; I needed to handle the psychological.",
+        "author_ref_user_id": 132,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 25,
+        "comment_id": 1,
+        "text": "My spouse learned about my condition alongside me. Going through the adjustment together strengthened our partnership enormously.",
+        "author_ref_user_id": 158,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 25,
+        "comment_id": 2,
+        "text": "When I was diagnosed with type 2 diabetes, the first thing that helped was education. Understanding the condition removed some of the fear.",
+        "author_ref_user_id": 194,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 25,
+        "comment_id": 3,
+        "text": "Taking it one day at a time instead of projecting worst-case scenarios into the future. Today, right now, is manageable.",
+        "author_ref_user_id": 233,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 25,
+        "comment_id": 4,
+        "text": "I asked my doctor a lot of questions and wasn't afraid to seek second opinions. Being proactive helped me feel more in control.",
+        "author_ref_user_id": 258,
+        "reported_or_removed": true
+      }
+    ]
+  },
+  {
+    "post_id": 6,
+    "messages_list": [
+      {
+        "post_id": 6,
+        "comment_id": null,
+        "text": "What keeps you going on your hardest days? The knowledge that feelings are temporary. I've survived every bad day so far, and I'll survive this one too.",
+        "author_ref_user_id": 111,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 1,
+        "text": "The people who are counting on me. My kids, my aging mother, my team at work. They give me a reason to keep showing up.",
+        "author_ref_user_id": 128,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 2,
+        "text": "Music. I have a playlist called 'Survival Mode' with songs that have gotten me through tough times. It works every time.",
+        "author_ref_user_id": 167,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 3,
+        "text": "I keep a folder of kind text messages and cards from people I love. On hard days, I read through them as a reminder that I matter.",
+        "author_ref_user_id": 137,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 4,
+        "text": "Physical movement, even when I don't want to. A five-minute walk often turns into twenty, and my mood shifts along the way.",
+        "author_ref_user_id": 150,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 5,
+        "text": "My morning cup of coffee on the porch. Some days, it's the only thing that feels good, and that's enough to build on.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 6,
+        "text": "My therapist taught me to ask 'what's one thing I can do right now?' instead of being overwhelmed by everything. One thing. That's it.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 7,
+        "text": "Looking at photos of moments when I was genuinely happy. They remind me that joy exists and will come back around.",
+        "author_ref_user_id": 107,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 8,
+        "text": "Calling one friend, even for five minutes. Human connection is the fastest way to remind myself I'm not alone in this.",
+        "author_ref_user_id": 173,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 6,
+        "comment_id": 9,
+        "text": "Honestly? My dog. She needs to be walked and fed regardless of how I'm feeling, and her joy at seeing me makes even bad days better.",
+        "author_ref_user_id": 164,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 54,
+    "messages_list": [
+      {
+        "post_id": 54,
+        "comment_id": null,
+        "text": "How do you maintain a positive relationship with food? Having one treat a day without guilt keeps me from binge eating out of deprivation. A small piece of chocolate after lunch does the trick.",
+        "author_ref_user_id": 109,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 54,
+        "comment_id": 1,
+        "text": "Intuitive eating changed my entire relationship with food. Eating when hungry, stopping when satisfied. Revolutionary in its simplicity.",
+        "author_ref_user_id": 127,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 54,
+        "comment_id": 2,
+        "text": "Working with a registered dietitian helped me create a sustainable approach instead of cycling through extreme diets.",
+        "author_ref_user_id": 157,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 54,
+        "comment_id": 3,
+        "text": "Family meals where we all sit together and talk have made eating a joyful social event instead of just fuel intake.",
+        "author_ref_user_id": 143,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 54,
+        "comment_id": 4,
+        "text": "I eat at a table now, not in front of screens. Paying attention to my meal makes me eat slower and enjoy it more.",
+        "author_ref_user_id": 117,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 54,
+        "comment_id": 5,
+        "text": "I stopped labeling foods as 'good' or 'bad.' Pizza isn't evil and salad isn't virtuous. They're both just food.",
+        "author_ref_user_id": 146,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 54,
+        "comment_id": 6,
+        "text": "Learning to cook cuisines from different cultures expanded my dietary variety enormously. Thai, Ethiopian, Japanese — so many flavors.",
+        "author_ref_user_id": 132,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 54,
+        "comment_id": 7,
+        "text": "I focus on adding nutritious foods rather than restricting. More vegetables, more protein, more water. Addition, not subtraction.",
+        "author_ref_user_id": 113,
+        "reported_or_removed": false
+      }
+    ]
+  },
+  {
+    "post_id": 44,
+    "messages_list": [
+      {
+        "post_id": 44,
+        "comment_id": null,
+        "text": "Creative ways to stay socially connected despite physical limitations Online gaming with my grandkids is surprisingly fun! We play cooperative games and the laughter flows just like it would in person.",
+        "author_ref_user_id": 176,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 1,
+        "text": "Joining an online choir was remarkable. We each record our parts separately and they get mixed together. The result is beautiful.",
+        "author_ref_user_id": 239,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 2,
+        "text": "Window gardening and sharing progress photos in a gardening group keeps me connected to other plant enthusiasts without leaving home.",
+        "author_ref_user_id": 268,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 3,
+        "text": "I joined an online writing workshop. We write prompts together and share our work for gentle feedback. The community is incredibly supportive.",
+        "author_ref_user_id": 209,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 4,
+        "text": "I host a virtual cooking night where friends and I make the same recipe simultaneously over video chat. It's chaotic and delightful.",
+        "author_ref_user_id": 257,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 5,
+        "text": "I started sending handwritten notes to friends and family. People love receiving physical mail and it often starts a wonderful back-and-forth.",
+        "author_ref_user_id": 283,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 6,
+        "text": "Phone calls are underrated. I schedule weekly calls with different friends. Something about voice-to-voice connection feels more intimate than texting.",
+        "author_ref_user_id": 178,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 44,
+        "comment_id": 7,
+        "text": "Video calls with my book club every Thursday are the highlight of my week. We read, we discuss, we gossip. It's wonderful.",
+        "author_ref_user_id": 266,
+        "reported_or_removed": true
+      }
+    ]
+  },
+  {
+    "post_id": 8,
+    "messages_list": [
+      {
+        "post_id": 8,
+        "comment_id": null,
+        "text": "The role of gratitude in mental wellness — overrated or genuinely helpful? The research on gratitude and improved sleep quality convinced me to try it. The science is surprisingly robust.",
+        "author_ref_user_id": 124,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 1,
+        "text": "I don't think it's a cure-all, but as part of a broader wellness practice, it's a powerful piece of the puzzle.",
+        "author_ref_user_id": 188,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 2,
+        "text": "I think it works because it trains your brain to notice good things that were always there but getting drowned out by the negative.",
+        "author_ref_user_id": 152,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 3,
+        "text": "I was deeply skeptical about gratitude journals until I committed to three months. The shift in my default thinking was undeniable.",
+        "author_ref_user_id": 234,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 4,
+        "text": "I write three things I'm grateful for every night. Some days it's profound — my health, my family. Some days it's my warm socks. Both count.",
+        "author_ref_user_id": 174,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 5,
+        "text": "My therapist cautioned against toxic positivity disguised as gratitude. You can be grateful AND acknowledge pain. Both are valid.",
+        "author_ref_user_id": 250,
+        "reported_or_removed": true
+      },
+      {
+        "post_id": 8,
+        "comment_id": 6,
+        "text": "Gratitude doesn't mean ignoring problems. It means acknowledging that alongside the difficulties, good things also exist.",
+        "author_ref_user_id": 207,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 7,
+        "text": "Expressing gratitude to others has strengthened my relationships more than any other practice. A simple sincere thank-you goes far.",
+        "author_ref_user_id": 270,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 8,
+        "text": "The research on gratitude and improved sleep quality convinced me to try it. The science is surprisingly robust.",
+        "author_ref_user_id": 281,
+        "reported_or_removed": false
+      },
+      {
+        "post_id": 8,
+        "comment_id": 9,
+        "text": "I don't think it's a cure-all, but as part of a broader wellness practice, it's a powerful piece of the puzzle.",
+        "author_ref_user_id": 253,
+        "reported_or_removed": false
+      }
+    ]
+  }
+]
