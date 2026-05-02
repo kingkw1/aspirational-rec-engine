@@ -29,14 +29,19 @@ if "torchvision" not in sys.modules:
     sys.modules["torchvision"] = mock_tv
     
     # Submodules
-    for sub in ["transforms", "transforms.v2", "ops", "io", "ops.boxes"]:
+    for sub in ["transforms", "transforms.functional", "transforms.v2", "ops", "ops.boxes", "io"]:
         full_name = f"torchvision.{sub}"
         m = MagicMock(name=full_name)
-        m.__spec__ = ModuleSpec(full_name, None)
+        m.__path__ = []
+        m.__spec__ = ModuleSpec(full_name, None, is_package=True)
         sys.modules[full_name] = m
-        # Ensure 'transforms' attribute exists on the main mock_tv
+        # Ensure top-level attributes exist
         if "." not in sub:
             setattr(mock_tv, sub, m)
+        elif sub.startswith("transforms."):
+            setattr(sys.modules["torchvision.transforms"], sub.split(".")[1], m)
+        elif sub.startswith("ops."):
+            setattr(sys.modules["torchvision.ops"], sub.split(".")[1], m)
 
 import streamlit as st
 

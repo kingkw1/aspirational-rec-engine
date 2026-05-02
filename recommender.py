@@ -12,6 +12,11 @@ Implements:
 
 from __future__ import annotations
 
+import os
+
+# Fix for "TypeError: Descriptors cannot be created directly" (protobuf mismatch)
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 import pathlib
 import random
 from dataclasses import dataclass, field
