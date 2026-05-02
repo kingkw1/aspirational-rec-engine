@@ -11,6 +11,11 @@ Default EmbeddingExtractor runs a local HuggingFace model (all-MiniLM-L6-v2) via
 
 from __future__ import annotations
 
+import os
+
+# Fix for "TypeError: Descriptors cannot be created directly" (protobuf mismatch)
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field
 

@@ -11,37 +11,36 @@ from __future__ import annotations
 import os
 import sys
 from unittest.mock import MagicMock
+from importlib.machinery import ModuleSpec
+from types import ModuleType
 
 # ── Environment Fixes for Deployment ──────────────────────────────────────────
 
 # Fix for "TypeError: Descriptors cannot be created directly" (protobuf mismatch)
 os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 
-# Mock torchvision to satisfy transformers discovery without installing 500MB+
-# This prevents the "ModuleNotFoundError" and potential import deadlocks.
-if "torchvision" not in sys.modules:
-    import types
-    from importlib.machinery import ModuleSpec
-    
-    mock_tv = types.ModuleType("torchvision")
-    mock_tv.__path__ = []
-    mock_tv.__spec__ = ModuleSpec("torchvision", None, is_package=True)
-    sys.modules["torchvision"] = mock_tv
-    
-    # Submodules
-    for sub in ["transforms", "transforms.functional", "transforms.v2", "ops", "ops.boxes", "io"]:
-        full_name = f"torchvision.{sub}"
-        m = MagicMock(name=full_name)
+# ── Ultimate Mock for torchvision ─────────────────────────────────────────────
+# This handles all 'torchvision.*' imports dynamically, satisfying transformers
+# without needing to install the heavy library.
+
+class MockLoader:
+    def create_module(self, spec):
+        m = MagicMock(name=spec.name)
         m.__path__ = []
-        m.__spec__ = ModuleSpec(full_name, None, is_package=True)
-        sys.modules[full_name] = m
-        # Ensure top-level attributes exist
-        if "." not in sub:
-            setattr(mock_tv, sub, m)
-        elif sub.startswith("transforms."):
-            setattr(sys.modules["torchvision.transforms"], sub.split(".")[1], m)
-        elif sub.startswith("ops."):
-            setattr(sys.modules["torchvision.ops"], sub.split(".")[1], m)
+        return m
+    def exec_module(self, module):
+        pass
+
+class MockFinder:
+    def find_spec(self, fullname, path, target=None):
+        if fullname == "torchvision" or fullname.startswith("torchvision."):
+            return ModuleSpec(fullname, MockLoader(), is_package=True)
+        return None
+
+if "torchvision" not in sys.modules:
+    sys.meta_path.insert(0, MockFinder())
+    # Pre-populate the root for simple 'import torchvision'
+    import torchvision
 
 import streamlit as st
 
