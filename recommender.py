@@ -30,7 +30,9 @@ try:
     import mlflow
 
     _MLFLOW_AVAILABLE = True
-except ImportError:
+except Exception:
+    # Catching Exception instead of just ImportError because dependency issues
+    # (like protobuf version mismatch) can raise TypeError/AttributeError during import.
     _MLFLOW_AVAILABLE = False
 
 # ── Reward Weights ───────────────────────────────────────────────────────────
