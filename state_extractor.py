@@ -16,8 +16,6 @@ from dataclasses import dataclass, field
 
 import numpy as np
 from numpy.typing import NDArray
-from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
 
 from data_loader import Conversation, DiscussionPost, AppData
 
@@ -191,6 +189,7 @@ class EmbeddingExtractor(BaseExtractor):
     @property
     def model(self) -> SentenceTransformer:
         if self._model is None:
+            from sentence_transformers import SentenceTransformer
             self._model = SentenceTransformer(self.model_name)
         return self._model
 
@@ -221,6 +220,7 @@ class EmbeddingExtractor(BaseExtractor):
         # embedding shape: (dim,) -> (1, dim)
         if embedding.ndim == 1:
             embedding = embedding.reshape(1, -1)
+        from sklearn.metrics.pairwise import cosine_similarity
         sims = cosine_similarity(embedding, taxonomy_embeddings)[0]
         ranked_idx = np.argsort(sims)[::-1][:top_k]
         return [

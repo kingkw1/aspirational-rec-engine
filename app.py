@@ -8,6 +8,36 @@ Run with: streamlit run app.py
 
 from __future__ import annotations
 
+import os
+import sys
+from unittest.mock import MagicMock
+
+# ── Environment Fixes for Deployment ──────────────────────────────────────────
+
+# Fix for "TypeError: Descriptors cannot be created directly" (protobuf mismatch)
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
+# Mock torchvision to satisfy transformers discovery without installing 500MB+
+# This prevents the "ModuleNotFoundError" and potential import deadlocks.
+if "torchvision" not in sys.modules:
+    import types
+    from importlib.machinery import ModuleSpec
+    
+    mock_tv = types.ModuleType("torchvision")
+    mock_tv.__path__ = []
+    mock_tv.__spec__ = ModuleSpec("torchvision", None, is_package=True)
+    sys.modules["torchvision"] = mock_tv
+    
+    # Submodules
+    for sub in ["transforms", "transforms.v2", "ops", "io", "ops.boxes"]:
+        full_name = f"torchvision.{sub}"
+        m = MagicMock(name=full_name)
+        m.__spec__ = ModuleSpec(full_name, None)
+        sys.modules[full_name] = m
+        # Ensure 'transforms' attribute exists on the main mock_tv
+        if "." not in sub:
+            setattr(mock_tv, sub, m)
+
 import streamlit as st
 
 from data_loader import load_all
