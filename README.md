@@ -1,6 +1,6 @@
 # Aspirational Recommendation Engine for Digital Health (Prototype)
 
-**Live demo:** [recsys-prototype.streamlit.app](https://lore-recsys-prototype-niqqq7ndkhzgrers28qwjs.streamlit.app)
+**Live demo:** [recsys-prototype.streamlit.app](https://aspirational-rec-engine.streamlit.app/)
 
 ## Overview
 This repository contains a functional prototype of an Aspirational Recommendation System designed for digital health platforms.
