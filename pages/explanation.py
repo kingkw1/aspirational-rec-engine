@@ -50,7 +50,7 @@ st.code("""
 │                        DATA SOURCES                                │
 ├────────────────────┬─────────────────────┬─────────────────────────┤
 │ conversations.json │ discussions.json    │ activity.json           │
-│ 24 users × Coach │ 56 posts + comments │ 2,549 interaction logs  │
+│ 24 users × Coach   │ 56 posts + comments │ 2,549 interaction logs  │
 │ (personal context) │ (community content) │ (read/comment/create)   │
 └────────┬───────────┴───────┬─────────────┴─────────────┬───────────┘
          │                   │                           │
